@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "rendered": "This blog post has foreign characters!"
+        },
+        "content": {
+            "rendered": "Here are some French words: egalité, être - and some German words: Spaß, Äonen, übellaunig."
+        }
+    }
+]

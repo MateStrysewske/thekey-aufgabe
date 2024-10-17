@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "rendered": "This is a test title"
+        },
+        "content": {
+            "rendered": "This content contains a lot of extremely helpful information"
+        },
+        "excerpt": {
+            "rendered": "Not so much helpful information here"
+        }
+    },
+    {
+        "id": 2,
+        "title": {
+            "rendered": "Much clickbait"
+        },
+        "fish": {
+            "rendered": "Fish"
+        }
+    }
+]

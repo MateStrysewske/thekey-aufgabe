@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.table-container {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 100px 0 10px;
+}
+
+.MuiTableContainer-root {
+  width: 75%;
+  min-width: 550px;
+  max-width: 750px;
+}
+
+.MuiTableCell-head {
+  color: #fff !important;
+  background-color: #247AC7 !important;
+  padding: 8px 16px !important;
+  font-weight: 600 !important;
+  font-size: 1.05rem !important;
+}
+
+table {
+  tr:nth-child(even) {
+    background-color: #247bc736;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #247bc70e;
+  }
+}
